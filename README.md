@@ -1,2 +1,3 @@
-# MarketModels
-Market Analysis for the course ECO764
+# Market Models
+
+Market Analysis for the course ECO764.
